@@ -1,2 +1,5 @@
 # Ignore folder_to_ignore
-folder_to_ignore/
+Datasetsd,
+Filtered,
+Resized,
+thresholded
